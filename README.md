@@ -41,19 +41,13 @@ Applied PySpark and data analytics techniques to healthcare datasets to uncover 
 
 
 ## What I Bring
-Data Cleaning & Preparation
+-Data Cleaning & Preparation
+-Exploratory Data Analysis
+-Dashboard Development
+-Business Performance Analysis
+-Customer & Operational Analytics
+-Data Storytelling & Recommendations
 
-Exploratory Data Analysis
-
-Dashboard Development
-
-Business Performance Analysis
-
-Customer & Operational Analytics
-
-Data Storytelling & Recommendations
-
----
 
 ## Current Focus
 - Advanced SQL
@@ -65,20 +59,13 @@ Data Storytelling & Recommendations
 
 ## Portfolio Highlights
 
-📌 Business-focused analytics projects
-
-📌 Interactive dashboards
-
-📌 SQL-based problem solving
-
-📌 Python automation and analysis
-
-📌 Real-world datasets
+- Business-focused analytics projects
+- SQL-based problem solving
+- Python automation and analysis
+- Real-world datasets
 
 
 
 ## Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/opeoluwa-omoniyi-225aa9248
-
-📧 Email: opeoluwaprestige@gmail.com
+=LinkedIn: www.linkedin.com/in/opeoluwa-omoniyi-225aa9248
+-Email: opeoluwaprestige@gmail.com
