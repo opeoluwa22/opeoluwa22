@@ -9,12 +9,12 @@ My work focuses on identifying trends, uncovering opportunities, and supporting 
 
 ## Featured Projects
 
-### 📊 Customer Churn Analysis
+### Customer Churn Analysis
 Analyzed customer behavior and churn patterns to identify key retention drivers and recommend targeted business strategies.
 
 **Skills:** SQL, Python, Data Cleaning, EDA, Data Visualization
 
-### 🏥 Healthcare Analytics
+### Healthcare Analytics
 Applied PySpark and data analytics techniques to healthcare datasets to uncover operational insights and improve reporting.
 
 **Skills:** PySpark, Python, Data Engineering
@@ -41,17 +41,17 @@ Applied PySpark and data analytics techniques to healthcare datasets to uncover 
 
 
 ## What I Bring
-✅ Data Cleaning & Preparation
+Data Cleaning & Preparation
 
-✅ Exploratory Data Analysis
+Exploratory Data Analysis
 
-✅ Dashboard Development
+Dashboard Development
 
-✅ Business Performance Analysis
+Business Performance Analysis
 
-✅ Customer & Operational Analytics
+Customer & Operational Analytics
 
-✅ Data Storytelling & Recommendations
+Data Storytelling & Recommendations
 
 ---
 
