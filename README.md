@@ -7,44 +7,31 @@ I'm a data analyst with strong analytical and problem-solving skills, passionate
 My work focuses on discovery patterns in data and supporting data driven decision-making across healthcare, and business performance.
 
 ## Key Projects
-### Customer Churn Analysis
-Analyzed customer behavior and churn patterns to identify key retention drivers and recommend targeted business strategies.
 
-**Skills:** SQL, Python, Data Cleaning, EDA, Data Visualization
+1. COVID-19 Data Analysis (SQL)
+Analysed global COVID-19 data using SQL to explore infection rates, death rates, and vaccination progress across different countries.
 
-### Healthcare Analytics
-Applied PySpark and data analytics techniques to healthcare datasets to uncover operational insights and improve reporting.
+Skills: SQL, SQLite, Data Cleaning, Data Analysis, Data Visualisation
 
-**Skills:** PySpark, Python, Data Engineering
+2. Lifestyle-Based Cervical Cancer Risk Prediction
+Used machine learning techniques to identify lifestyle factors linked to cervical cancer risk and examined the impact of the disease across West African countries.
 
+Skills: Python, Machine Learning, Data Analysis, Predictive Modelling, Statistical Analysis, Data Visualisation
+
+3. Customer Churn Analysis (Ongoing)
+Analysing customer behaviour data to identify which customers are most likely to leave a superstore and the factors influencing their decisions.
+
+Skills: Python, SQL, Data Analysis, Customer Analytics, Data Visualisation, Predictive Modelling
 
 ## Technical Skills
-### Data Analysis
-- SQL
-- Python
-- Pandas
-- NumPy
-- PySpark
 
-### Data Visualization
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
+* SQL, Python (Pandas, NumPy)
+* Power BI, Excel
+* Data Cleaning, EDA
+* Data Visualization (Matplotlib, Seaborn)
+* Dashboard Development, Business Intelligence
+* Data Storytelling & Insights
 
-### Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Business Intelligence
-
-
-## What I Bring
--Data Cleaning & Preparation
--Exploratory Data Analysis
--Dashboard Development
--Business Performance Analysis
--Customer & Operational Analytics
--Data Storytelling & Recommendations
 
 ## Connect With Me
 =LinkedIn: www.linkedin.com/in/opeoluwa-omoniyi-225aa9248
