@@ -8,13 +8,11 @@ My work focuses on discovery patterns in data and supporting data driven decisio
 
 ## Key Projects
 
-1. COVID-19 Data Analysis (SQL)
-Analysed global COVID-19 data using SQL to explore infection rates, death rates, and vaccination progress across different countries.
+1. COVID-19 Data Analysis (SQL): Analysed global COVID-19 data using SQL to explore infection rates, death rates, and vaccination progress across different countries.
 
 Skills: SQL, SQLite, Data Cleaning, Data Analysis, Data Visualisation
 
-2. Lifestyle-Based Cervical Cancer Risk Prediction
-Used machine learning techniques to identify lifestyle factors linked to cervical cancer risk and examined the impact of the disease across West African countries.
+2. Lifestyle-Based Cervical Cancer Risk Prediction: Used machine learning techniques to identify lifestyle factors linked to cervical cancer risk and examined the impact of the disease across West African countries.
 
 Skills: Python, Machine Learning, Data Analysis, Predictive Modelling, Statistical Analysis, Data Visualisation
 
