@@ -1,6 +1,6 @@
 # Hi, I'm Opeoluwa Omoniyi 
 
-## Data Analyst | SQL | Python | Power BI | Excel
+## Data Analyst | Data Scientist | SQL | Python | Power BI | Excel
 
 I'm a data analyst with strong analytical and problem-solving skills, passionate about using data to generate actionable insights in healthcare and business environments.
 
