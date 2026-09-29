@@ -5,15 +5,13 @@ I'm a Data Analyst with a Distinction in MSc Data Science and strong skills in P
 
 ## Key Projects
 
-1. COVID-19 Data Analysis (SQL):
-- Analysed daily COVID-19 data from 2020 to 2021 across 200+ countries in SQLite, combining tables with joins and using aggregate functions to calculate infection rates, death percentages, and vaccination progress.
-- Developed an interactive Tableau Public dashboard to visualise global COVID-19 data, making it easier to compare infection and mortality rates across different countries and regions.
+1. COVID-19 Data Analysis (SQL):  
+Analysed daily COVID-19 data across 200+ countries using SQLite, applying joins and aggregate functions to calculate key health metrics, and developed an interactive Tableau Public dashboard to visualise and compare global infection, mortality, and vaccination trends.
 
 Skills: SQL, SQLite, Data Cleaning, Data Analysis, Data Visualisation, Tableau 
 
-2. Customer Behaviour Analysis (Python, SQL, Power BI)
-- Analysed retail consumer data for 3,900 e-commerce customers using Python and SQL to identify purchasing patterns.
-- Built an interactive Power BI dashboard to explore retail growth opportunities, tracking KPIs for subscription sign-ups, stock organisation across categories, and high-value customer groups.
+2. Customer Behaviour Analysis (Python, SQL, Power BI):
+Analysed purchasing patterns across 3,900 e-commerce customers using Python and SQL, and developed an interactive Power BI dashboard to track key performance indicators and identify retail growth opportunities, including subscription sign-ups, product category organisation, and high-value customer segments.
   
 Skills: Python, SQL, Data Analysis, Customer Analytics, Data Visualisation, Power BI
 
