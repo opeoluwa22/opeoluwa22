@@ -4,19 +4,20 @@
 I'm a Data Analyst with a Distinction in MSc Data Science and specialise in transforming complex datasets into actionable business solutions using Python, SQL, and Power BI.
 
 ## Key Projects
+1. [**Customer Behaviour Analysis (Python, SQL, Power BI)**](https://github.com/opeoluwa22/Customer-Behaviour-Analysis) :
+* Modeled purchasing patterns across 3,900 e-commerce customers using Python and SQL.
+* Designed an interactive Power BI dashboard tracking KPIs, subscription sign-ups, and high-value customer segments.
 
-1. [**COVID-19 Data Analysis (SQL)**](https://github.com/opeoluwa22/Covid-SQL-Analysis) :
+**Skills:** `Python` `SQL` `Power BI` `Customer Analytics`
+
+
+2. [**COVID-19 Data Analysis (SQL)**](https://github.com/opeoluwa22/Covid-SQL-Analysis) :
 * Analyzed daily COVID-19 data across 200+ countries using SQLite (joins, window functions, and aggregations).
 * Built an interactive [Tableau Public Dashboard]( https://public.tableau.com/app/profile/opeoluwa.omoniyi6262/viz/CovidDashboardVisualisation_17830834849240/Dashboard1) comparing global infection, mortality, and vaccination trends.
 
 **Skills:** `SQL` `SQLite` `Tableau` `Data Visualisation`
 
 
-2. [**Customer Behaviour Analysis (Python, SQL, Power BI)**](https://github.com/opeoluwa22/Customer-Behaviour-Analysis) :
-* Modeled purchasing patterns across 3,900 e-commerce customers using Python and SQL.
-* Designed an interactive Power BI dashboard tracking KPIs, subscription sign-ups, and high-value customer segments.
-
-**Skills:** `Python` `SQL` `Power BI` `Customer Analytics`
 
 ## Technical Skills
 * **Languages & Querying:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy, Matplotlib, Seaborn)
