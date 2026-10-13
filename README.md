@@ -10,8 +10,13 @@ I specialise in transforming complex datasets into actionable business solutions
 
 **Skills:** `Python` `SQL` `Power BI` `Customer Analytics`
 
+2. **[Data Professional Survey Breakdown Dashboard]**(https://github.com/opeoluwa22/Data-Professional-Survey-Dashboard):
+* Cleaned and analyzed survey responses from 630 data professionals using Excel and Power Query to evaluate salary distributions, job satisfaction, and entry barriers.
+* Built an interactive Power BI dashboard tracking key metrics including average salaries by job title, preferred programming languages, and work-life balance scores.
 
-2. [**COVID-19 Data Analysis (SQL)**](https://github.com/opeoluwa22/Covid-SQL-Analysis) :
+**Skills:** `Excel` `Power Query` `Power BI` `Data Visualisation`
+
+3. [**COVID-19 Data Analysis (SQL)**](https://github.com/opeoluwa22/Covid-SQL-Analysis) :
 * Analyzed daily COVID-19 data across 200+ countries using SQLite (joins, window functions, and aggregations).
 * Built an interactive [Tableau Public Dashboard]( https://public.tableau.com/app/profile/opeoluwa.omoniyi6262/viz/CovidDashboardVisualisation_17830834849240/Dashboard1) comparing global infection, mortality, and vaccination trends.
 
