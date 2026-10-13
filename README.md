@@ -1,7 +1,7 @@
 # Hi, I'm Opeoluwa Omoniyi 
 
 ## Data Analyst | SQL | Python | Power BI | Excel
-I'm a Data Analyst with a Distinction in MSc Data Science and specialise in transforming complex datasets into actionable business solutions using Python, SQL, and Power BI.
+I specialise in transforming complex datasets into actionable business solutions using Python, SQL, and Power BI.
 
 ## Key Projects
 1. [**Customer Behaviour Analysis (Python, SQL, Power BI)**](https://github.com/opeoluwa22/Customer-Behaviour-Analysis) :
